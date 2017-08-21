@@ -1,0 +1,16 @@
+首先我们
+head-top==>w 100%  h 26 border-bottom
+
+在里边新建了两块级
+第一个prompt f1
+第二个top-nav fr
+进行一个浮动
+top-nav>li float  margin  r  11px
+li中新建span做一个小三角
+b-w   7px  b-s  solid  b-co：#60606 #f7
+
+float margin：11 4 0 4 
+banner
+banner-con
+sidebar-left
+sidebar-right
